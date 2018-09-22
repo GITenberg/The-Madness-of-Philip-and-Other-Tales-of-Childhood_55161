@@ -10,6 +10,9 @@ contributor:
     deathdate: 1972
     gutenberg_agent_id: '33622'
     url: http://www.gutenberg.org/2009/agents/33622
+covers:
+- cover_type: archival
+  image_path: 55161-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacon, Josephine Daskam
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9246
     wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55161#The-Madness-of-Philip-and-Other-Tales-of-Childhood
 gutenberg_issued: '2017-07-21'
 gutenberg_type: Text
 identifiers:
