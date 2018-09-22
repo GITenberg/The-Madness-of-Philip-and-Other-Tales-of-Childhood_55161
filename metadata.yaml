@@ -1,0 +1,40 @@
+_repo: The-Madness-of-Philip-and-Other-Tales-of-Childhood_55161
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cory, Fanny Y.
+    aliases:
+    - Cory, F. Y. (Fanny Y.)
+    - Cooney, Fanny Young Cory
+    birthdate: 1877
+    deathdate: 1972
+    gutenberg_agent_id: '33622'
+    url: http://www.gutenberg.org/2009/agents/33622
+creator:
+  author:
+    agent_name: Bacon, Josephine Daskam
+    aliases:
+    - Lovell, Ingraham
+    - Daskam, Josephine Dodge
+    - Bacon, Josephine Dodge Daskam
+    - Bacon, Selden, Mrs.
+    birthdate: 1876
+    deathdate: 1961
+    gutenberg_agent_id: '9246'
+    url: http://www.gutenberg.org/2009/agents/9246
+    wikipedia: http://en.wikipedia.org/wiki/Josephine_Daskam_Bacon
+description: ''
+gutenberg_issued: '2017-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55161'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Madness of Philip
+
+  and Other Tales of Childhood'
+url: http://www.gutenberg.org/ebooks/55161
